@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#hero-section {
+    background: url(https://i.postimg.cc/2SY5DYVR/background.png), url(../img/header.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+}
+
+#first-section {
+    min-height: 100vh !important;
+}
+
+.first-pic {
+    background: url(../img/about.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+}
+
+#second-section {
+    min-height: 100vh !important;
+}
+
+.truck img {
+    width: 4em !important;
+    height: 2em !important;
+    margin: 1em 0 0 4em;
+}
+
+.hello {
+    height: 1.6rem !important;
+    width: 1.4rem;
+    padding: 4px;
+  }
+
+  .icon {
+    height: 2rem;
+  }
+
+  #we-do {
+      min-height: 100vh;
+  }
+
+  #sea-voyage {
+      min-height: 100vh;
+  }
+
+  #team {
+      min-height: 100vh;
+      padding-top: 3em;
+  }
+
+  #voyager-1 {
+      min-height: 70vh;
+      padding-top: 2em;
+  }
